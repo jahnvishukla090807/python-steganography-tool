@@ -8,6 +8,6 @@ A cybersecurity tool allowing users to hide secret text data inside PNG images u
 * **Lightweight:** Built with Python and the `stegano` library.
 
 ### 🛠️ Usage
-1. Run the script: `python stego_tool.py`
+1. Run the script: `The invisible ink.py`
 2. Select '1' to hide a message in a PNG file.
 3. Select '2' to decode a message from a processed image.
